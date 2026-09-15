@@ -1,1 +1,0 @@
-function e(e){let t=null;return()=>(t===null&&(t=e().finally(()=>{t=null})),t)}export{e as t};
